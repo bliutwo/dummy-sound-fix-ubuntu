@@ -4,7 +4,7 @@
 
 For certain Chromebook models, the sound card is not detected upon installation of Linux. The following script(s) will fix the problem.
 
-This fix has only been tested with Acer Chromebook 14 and Ubuntu 17.10.
+**Note:** This fix has only been tested with Acer Chromebook 14 and Ubuntu 17.10.
 
 ## Usage
 
