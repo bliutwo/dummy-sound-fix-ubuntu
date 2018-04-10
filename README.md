@@ -15,7 +15,11 @@ For certain Chromebook models, the sound card is not detected upon installation 
 bash install.sh
 ```
 4. Reboot after running this command.
-5. After running the script, you will be unable to update your system. The following command will allow you to update it:
+5. After steps 2-4, you will be unable to update your system. The following command will re-allow you to update it:
+```
+sudo apt-get install -f
+```
+OR
 ```
 bash fix.sh
 ```
