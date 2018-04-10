@@ -9,3 +9,5 @@ Usage: run
 ```
 bash install.sh
 ```
+
+Reboot after running this command.
