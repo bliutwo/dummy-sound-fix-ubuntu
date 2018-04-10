@@ -9,13 +9,14 @@ For certain Chromebook models, the sound card is not detected upon installation 
 ## Usage
 
 1. Download or clone this repository.
-2. Run the following command:
+2. Open the repository in a terminal.
+3. Run the following command:
 ```
 bash install.sh
 ```
-3. Reboot after running this command.
-4. After running the script, you will be unable to update your system. The following command will allow you to update it:
+4. Reboot after running this command.
+5. After running the script, you will be unable to update your system. The following command will allow you to update it:
 ```
 bash fix.sh
 ```
-5. Simply re-run steps 2-4 if you reboot your system and sound stops working.
+6. Simply re-run steps 2-5 if you reboot your system and/or sound stops working.
